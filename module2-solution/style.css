@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 15px; color: green;
 }
 p {
   border: 1px solid black;
